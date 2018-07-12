@@ -1,0 +1,17 @@
+C:\dev\project\StitcherLib\WpfUI\bin\Release\StitcherLib.exe
+C:\dev\project\StitcherLib\WpfUI\bin\Release\WpfUI.exe.config
+C:\dev\project\StitcherLib\WpfUI\bin\Release\WpfUI.exe
+C:\dev\project\StitcherLib\WpfUI\bin\Release\WpfUI.pdb
+C:\dev\project\StitcherLib\WpfUI\obj\Release\WpfUI.csprojAssemblyReference.cache
+C:\dev\project\StitcherLib\WpfUI\obj\Release\MainWindow.g.cs
+C:\dev\project\StitcherLib\WpfUI\obj\Release\App.g.cs
+C:\dev\project\StitcherLib\WpfUI\obj\Release\WpfUI_Content.g.cs
+C:\dev\project\StitcherLib\WpfUI\obj\Release\WpfUI_MarkupCompile.cache
+C:\dev\project\StitcherLib\WpfUI\obj\Release\WpfUI_MarkupCompile.lref
+C:\dev\project\StitcherLib\WpfUI\obj\Release\MainWindow.baml
+C:\dev\project\StitcherLib\WpfUI\obj\Release\WpfUI.g.resources
+C:\dev\project\StitcherLib\WpfUI\obj\Release\WpfUI.Properties.Resources.resources
+C:\dev\project\StitcherLib\WpfUI\obj\Release\WpfUI.csproj.GenerateResource.cache
+C:\dev\project\StitcherLib\WpfUI\obj\Release\WpfUI.csproj.CoreCompileInputs.cache
+C:\dev\project\StitcherLib\WpfUI\obj\Release\WpfUI.exe
+C:\dev\project\StitcherLib\WpfUI\obj\Release\WpfUI.pdb
